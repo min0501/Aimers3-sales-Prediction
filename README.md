@@ -1,3 +1,7 @@
+<h1 align="center">  📦온라인 채널 제품 판매량 예측 AI 해커톤📦  </h1>
+<h4 align="center"> LG AIMERS 3기 온라인 해커톤 1등  </h4>
+<br/>
+
 # 컴퓨터 사양
 - PatchTST 모델: CPU - Intel(R) Core(TM) i9-10900X CPU @ 3.70GHz, GPU - NVIDIA GeForece RTX 3090(24G) 2개, RAM - 64G
 
